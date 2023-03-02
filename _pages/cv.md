@@ -18,22 +18,22 @@ Education
 
 Work experience
 ======
-* Roku (August 2022 - Present)
+* [Roku](https://www.roku.com/) (August 2022 - Present)
   * New Products Team
   * Worked on initiative to expand Test Automation framework to test RokuOS hands-free on third-party platforms
   * Technologies: Python, TestRail, Docker, TeamCity
 
-* HubSpot (August 2021 - December 2021)
+* [HubSpot](https://www.hubspot.com/) (August 2021 - December 2021)
   * Cookie Banner Team
   * Iterated beta-phase of Cookie Banner dashboard using Java, React, and Redux to boost client capabilities in monitoring cookies
   * Technologies: Java, React.js, Redux, Blazar
 
-* Roku (June 2021 - August 2021)
+* [Roku](https://www.roku.com/) (June 2021 - August 2021)
   * New Products Team
   * Extended automation infrastructure by automating manual QA workflow of Roku firmware on third-party platforms
   * Technologies: Python, TestRail, Jira, Docker
 
-* Texas Instruments (June 2021 - August 2021)
+* [Texas Instruments](https://www.ti.com/) (June 2021 - August 2021)
   * Semiconductor Hardware and Packaging Team
   * Built data analysis tool to highlight problematic semiconductor design patterns and assisted in creation of design verification tool to approve wire and bond placements
   * Technologies: Java, MySQL, Spotfire, MATLAB
