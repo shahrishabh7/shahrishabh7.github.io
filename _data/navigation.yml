@@ -11,7 +11,7 @@ main:
   
 
 
-  - title: "Projects"
+  - title: "Portfolio"
     url: /portfolio/
         
   - title: "Real Estate"
@@ -24,6 +24,6 @@ main:
   #   url: /year-archive/
     
 
-    
+
   # - title: "Guide"
   #   url: /markdown/
