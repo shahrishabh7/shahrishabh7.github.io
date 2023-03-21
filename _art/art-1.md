@@ -4,12 +4,11 @@ excerpt: "National championship-winning, cultural dance production"
 collection: art
 ---
 
-Texas Raas is an intercollegiate, cultural dance team of 24 individuals that competes nationally. I joined the team in 2018 and captained from 2020 - 2022. We most notably performed at the [Howdy Modi](https://www.hindustantimes.com/india-news/pm-narendra-modi-s-howdy-modi-event-in-numbers/story-aWKhz0zKcpPlUcu6uVJgkJ.html) convention in 2020, an internationally broadcasted event to over 30 million people.
+Texas Raas is an intercollegiate, cultural dance team of 24 individuals that competes nationally. I joined the team in 2018 and captained from 2020 - 2022. We most notably performed at the [Howdy Modi](https://www.hindustantimes.com/india-news/pm-narendra-modi-s-howdy-modi-event-in-numbers/story-aWKhz0zKcpPlUcu6uVJgkJ.html) convention in 2020, an event broadcasted internationally to over 30 million people.
 
-We also won the 2022 Raas-All Stars national championship. Here is our performance.
+We also won the 2022 Raas-All Stars XIV National Championship. Here is our performance.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4iL-YvaZ9ds?start=63" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 
 <br />
