@@ -1,6 +1,6 @@
 ---
 title: "The Jungle Book"
-excerpt: "National championship-winning, cultural dance production"
+excerpt: "A national championship-winning, cultural dance production"
 collection: art
 ---
 
