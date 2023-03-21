@@ -13,7 +13,7 @@ We also won the 2022 Raas-All Stars XIV National Championship. Here is our perfo
 
 <br />
 
-Our soundtrack can be found below, I built it alongside [Rohan Varshney](https://rohanvarshney.github.io/) and [Viraj Parikh](https://github.com/virajxp1). We handpicked traditional Indian folk songs and made a cute, animated mix with elements from The Jungle Book soundtrack, Donkey Kong soundtrack, and Asiatic forest sounds and instruments.
+Our soundtrack can be found below, I built it alongside [Rohan Varshney](https://rohanvarshney.github.io/). We handpicked traditional Indian folk songs and made a cute, animated mix with elements from The Jungle Book soundtrack, Donkey Kong soundtrack, and Asiatic forest sounds and instruments.
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1253262760&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/rohanvarshney" title="ROVA" target="_blank" style="color: #cccccc; text-decoration: none;">ROVA</a> · <a href="https://soundcloud.com/rohanvarshney/dirty-south-dandiya-ras-xiv-1st-placeft-dj-sith-kharv-viraj-parikh" title="Dirty South Dandiya - RAS XIV 2022 [1st Place]" target="_blank" style="color: #cccccc; text-decoration: none;">Dirty South Dandiya - RAS XIV 2022 [1st Place]</a></div>
 
@@ -22,3 +22,5 @@ Our soundtrack can be found below, I built it alongside [Rohan Varshney](https:/
 We DIY engineered our props using (mainly) PVC, wood, foam board, and canvas. Here's an image of the set.
 
 ![Alt Text](/images/set-pic-2.png)
+
+I co-captained Texas Raas with [Malaika Jhaveri](https://www.linkedin.com/in/malaika-jhaveri), [Viraj Parikh](https://github.com/virajxp1), and [Shriya Varma](https://www.linkedin.com/in/shriya-varma-987b95186).
