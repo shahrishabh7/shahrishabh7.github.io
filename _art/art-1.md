@@ -23,4 +23,4 @@ We DIY engineered our props using (mainly) PVC, wood, foam board, and canvas. He
 
 ![Alt Text](/images/set-pic-2.png)
 
-I co-captained Texas Raas with [Malaika Jhaveri](https://www.linkedin.com/in/malaika-jhaveri), [Viraj Parikh](https://github.com/virajxp1), and [Shriya Varma](https://www.linkedin.com/in/shriya-varma-987b95186).
+I co-led this project with [Malaika Jhaveri](https://www.linkedin.com/in/malaika-jhaveri), [Viraj Parikh](https://github.com/virajxp1), and [Shriya Varma](https://www.linkedin.com/in/shriya-varma-987b95186).
