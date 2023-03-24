@@ -13,30 +13,32 @@ For PDF, click [here](/files/Resume-Rishabh.pdf){:target="_blank"}
 
 Education
 ======
-* B.S. in Mechanical Engineering (Certificate in Computer Science), University of Texas at Austin, 2022
-*	Relevant Coursework: Data Structures, Algorithms, Databases, Data Analytics, Machine Learning, iOS Mobile Computing, Web Programming, Data Visualizations, Linear Algebra, Differential Equations, Numerical Methods
+* B.S. in Mechanical Engineering and Minor in Computer Science, University of Texas at Austin, 2022
+*	Relevant Coursework: Data Structures, Algorithms, Databases, Data Analytics, Machine Learning, iOS Mobile Computing, Web Development, Dynamic Systems and Controls, Mechatronics, Fluid Mechanics, Thermodynamics, Solids, Numerical Methods, Engineering Statistics, Linear Algebra
 
 Work experience
 ======
 * [Roku](https://www.roku.com/) (August 2022 - Present)
   * New Products Team
-  * Worked on initiative to expand Test Automation framework to test RokuOS hands-free on third-party platforms
-  * Technologies: Python, TestRail, Docker, TeamCity
+  * Drove creation and maintenance of 7 continuous integration pipelines for RokuOS firmware in third-party devices, eliminating 32 hours of monthly QA testing
+  * Improved RokuOS third-party automation framework performance by 65% by integrating a maintenance client to handle common failures (firmware upgrades, dependency reloads, token re-authorizations)
+  * Enabled developer extension to containerize dependencies and allow engineers to remotely test devices 14x faster
 
 * [HubSpot](https://www.hubspot.com/) (August 2021 - December 2021)
-  * Cookie Banner Team
-  * Iterated beta-phase of Cookie Banner dashboard using Java, React, and Redux to boost client capabilities in monitoring cookies
-  * Technologies: Java, React.js, Redux, Blazar
+  * Cookie Consent Banner Full-Stack Team
+  * Designed and built 3 features as part of HubSpot cookie consent banner to give businesses increased monitoring capabilities, including a company policy form, notification switch panel, and cookie insights page
+  * Set up AWS S3 storage and wrote lambda function to ensure training and test data validity and cleanliness for cookie classification learning algorithm
+  * Co-led product beta release on 13 customer platforms, iterating product weekly based on feedback
 
 * [Roku](https://www.roku.com/) (June 2021 - August 2021)
   * New Products Team
-  * Extended automation infrastructure by automating manual QA workflow of Roku firmware on third-party platforms
-  * Technologies: Python, TestRail, Jira, Docker
+  * Integrated TestRail API in QA testing workflow to automatically update and export TestRail reports after test execution
+  * Scaled HDMI testing infrastructure using External Control Protocol, a Roku RESTful API, to automate HDMI validation
 
 * [Texas Instruments](https://www.ti.com/) (June 2021 - August 2021)
-  * Semiconductor Hardware and Packaging Team
-  * Built data analysis tool to highlight problematic semiconductor design patterns and assisted in creation of design verification tool to approve wire and bond placements
-  * Technologies: Java, MySQL, Spotfire, MATLAB
+  * Built React components and routes for design validation application, achieving a more efficient workflow
+  * Facilitated data analysis service powered by SQL queries to highlight design issues based on customer returns data
+  * Collaborated with cross-functional teams to integrate and sync React components with back-end APIs
 
 <!--   
 Skills
