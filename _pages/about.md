@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an engineer at [Roku](https://www.roku.com/) working on scaling our automation framework to handle all RokuOS testing hands-free.
+I am currently a software engineer at [Roku](https://www.roku.com/) working on scaling our software infrastructure to handle validation of RokuOS in third-party TVs completely hands-free.
 
 I am also passionate about investing in real estate. I co-own and operate a short-term rental in Panama City Beach, Florida fully remotely.
 
