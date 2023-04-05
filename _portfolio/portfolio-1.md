@@ -1,13 +1,13 @@
 ---
-title: "AirBNB Description Generator"
-excerpt: "AI-driven app that allows short-term rental hosts to generate optimal, one-of-a-kind property descriptions"
+title: "AirBNB HostAI"
+excerpt: "AI-driven platform that powers short-term rental hosts to streamline Airbnb launch operations"
 collection: portfolio
 ---
 
-This application is powered by OpenAI's ['text-davinci-003' model](https://platform.openai.com/docs/models/overview). The application writes a unique, SEO-optimized description based on the property location and amenities.
+AirBNB HostAI allows hosts to generate unique, optimized listing content instantly, ready to be pasted into hosts' Airbnb listing. We help hosts create their top-level description, paragraphs describing each room, and guest rules. We also have a tool to help hosts generate contracts for cleaners, handymen, and other tradesmen.
+
+The application is powered by OpenAI's ['text-davinci-003' model](https://platform.openai.com/docs/models/overview).
 
 We used [SQLAlchemy](https://www.sqlalchemy.org/) to aggregate model output data, identify prompting weaknesses, and finetune the algorithm.
-
-A demo result is shown below for a prospective AirBNB in Austin,TX.
 
 I worked on this project with [Nithanth Ram](https://github.com/Nithanth). You can find it [here](https://github.com/shahrishabh7/listing-rater-frontend).
