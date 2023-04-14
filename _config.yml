@@ -185,6 +185,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  real estate:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -262,6 +265,14 @@ defaults:
   - scope:
       path: ""
       type: art
+    values:
+      layout: single
+      author_profile: true
+      share: false
+  # _real estate
+  - scope:
+      path: ""
+      type: real estate
     values:
       layout: single
       author_profile: true
