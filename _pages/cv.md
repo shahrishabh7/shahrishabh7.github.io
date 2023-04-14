@@ -11,11 +11,6 @@ redirect_from:
 
 For PDF, click [here](/files/Resume-Rishabh.pdf){:target="_blank"}
 
-Education
-======
-* B.S. in Mechanical Engineering and Minor in Computer Science, University of Texas at Austin, 2022
-*	Relevant Coursework: Data Structures, Algorithms, Databases, Data Analytics, Machine Learning, iOS Mobile Computing, Web Development, Dynamic Systems and Controls, Mechatronics, Fluid Mechanics, Thermodynamics, Solids, Numerical Methods, Engineering Statistics, Linear Algebra
-
 Work experience
 ======
 * [Roku](https://www.roku.com/) (August 2022 - Present)
@@ -40,6 +35,10 @@ Work experience
   * Facilitated data analysis service powered by SQL queries to highlight design issues based on customer returns data
   * Collaborated with cross-functional teams to integrate and sync React components with back-end APIs
 
+Education
+======
+* B.S. in Mechanical Engineering and Minor in Computer Science, University of Texas at Austin, 2022
+*	Relevant Coursework: Data Structures, Algorithms, Databases, Data Analytics, Machine Learning, iOS Mobile Computing, Web Development, Dynamic Systems and Controls, Mechatronics, Fluid Mechanics, Thermodynamics, Solids, Numerical Methods, Engineering Statistics, Linear Algebra
 <!--   
 Skills
 ======
