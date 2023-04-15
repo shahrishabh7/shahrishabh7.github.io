@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Rishabh - I’m a software engineer and entrepreneur with bias for action.
+I’m a software engineer and entrepreneur with bias for action.
 
 I most recently worked as a Software Engineer on the New Products Team at Roku to build our RokuOS continuous integration infrastructure for third-party TVs.
 
