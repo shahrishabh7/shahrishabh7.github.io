@@ -1,10 +1,10 @@
 ---
 title: "AirBNB HostAI"
-excerpt: "AI-driven platform that powers short-term rental hosts to streamline Airbnb launch operations"
+excerpt: "AI-driven platform built to power short-term rental hosts"
 collection: portfolio
 ---
 
-AirBNB HostAI allows hosts to generate unique, optimized listing content instantly, ready to be pasted into hosts' Airbnb listing. We help hosts create their top-level description, paragraphs describing each room, and guest rules. We also have a tool to help hosts generate contracts for cleaners, handymen, and other tradesmen.
+This platform brings the power of AI to Airbnb hosts. Hosts can generate unique, optimized content instantly, create contracts for cleaners and handymen, and streamline their launch operations.
 
 The application is powered by OpenAI's ['text-davinci-003' model](https://platform.openai.com/docs/models/overview).
 

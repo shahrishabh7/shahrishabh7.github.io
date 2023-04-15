@@ -151,6 +151,10 @@ keep_files:
   - .git
   - .svn
 encoding: "utf-8"
+mime_types_charset:
+  ".html": "utf-8"
+  ".css": "utf-8"
+  ".js": "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
@@ -185,7 +189,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  real estate:
+  real-estate:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -272,7 +276,7 @@ defaults:
   # _real estate
   - scope:
       path: ""
-      type: real estate
+      type: real-estate
     values:
       layout: single
       author_profile: true

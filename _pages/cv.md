@@ -39,34 +39,3 @@ Education
 ======
 * B.S. in Mechanical Engineering and Minor in Computer Science, University of Texas at Austin, 2022
 *	Relevant Coursework: Data Structures, Algorithms, Databases, Data Analytics, Machine Learning, iOS Mobile Computing, Web Development, Dynamic Systems and Controls, Mechatronics, Fluid Mechanics, Thermodynamics, Solids, Numerical Methods, Engineering Statistics, Linear Algebra
-<!--   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
-
-<!-- Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams -->

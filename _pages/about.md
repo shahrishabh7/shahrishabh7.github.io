@@ -8,10 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a software engineer at [Roku](https://www.roku.com/) working on scaling our software infrastructure to handle validation of RokuOS in third-party TVs completely hands-free.
+Hi! My name is Rishabh - I’m a software engineer and entrepreneur with bias for action.
 
-I am also passionate about investing in real estate. I co-own and operate a short-term rental in Panama City Beach, Florida fully remotely.
+I most recently worked as a Software Engineer on the New Products Team at Roku to build our RokuOS continuous integration infrastructure for third-party TVs.
 
-I graduated from the [University of Texas at Austin](https://www.utexas.edu/) in May 2022 studying Computer Science and Mechanical Engineering. During my time at UT, I worked as a Research Associate at the [Koo Research Group](https://www.me.utexas.edu/people/faculty-directory/koo) and was an [ASME](https://www.utasme.org/) officer. I also captained [Texas Raas](https://utexas.campuslabs.com/engage/organization/texasraas), an intercollegiate, cultural dance team.
+I’ve contributed as a back-end and full-stack engineer at Roku, HubSpot, and Texas Instruments in the past 3 years.
 
-In my free time, you can find me hacking projects, playing chess, watching the Dallas Cowboys, or listening to the BiggerPockets podcast.
+I am also passionate about investing in real estate. I co-own and operate a [short-term rental](/real-estate/real-estate-1/) in Panama City Beach, Florida fully remotely.
+
+I graduated from the [University of Texas at Austin](https://www.utexas.edu/) in May 2022 studying Computer Science and Mechanical Engineering. During my time at UT, I worked as a Research Associate at the [Koo Research Group](https://www.me.utexas.edu/people/faculty-directory/koo) and was an [ASME](https://www.utasme.org/) officer. I also captained [Texas Raas](/art/art-1/), an intercollegiate, cultural dance team.
+
+In my free time, you can find me hacking projects, playing chess, or listening to the BiggerPockets Real Estate podcast.
