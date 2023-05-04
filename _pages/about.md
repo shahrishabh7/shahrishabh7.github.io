@@ -10,7 +10,7 @@ redirect_from:
 
 I’m a software engineer and entrepreneur with bias for action.
 
-I most recently worked on the New Products Team at Roku to take ownership of our third-party automated test infrastructure, improving its performance by over 60% and empowering our engineers through key API integrations. I’ve also contributed as a back-end and full-stack engineer at HubSpot and Texas Instruments in the past 3 years.
+I most recently worked on the New Products Team at Roku to take ownership of our third-party automated test infrastructure, improving its performance by over 60% and empowering our engineers through key external API integrations. I’ve also contributed as a back-end and full-stack engineer at HubSpot and Texas Instruments in the past 3 years.
 
 I am also passionate about investing in real estate. I co-own and operate a [short-term rental](/real-estate/real-estate-1/) in Panama City Beach, Florida fully remotely.
 
