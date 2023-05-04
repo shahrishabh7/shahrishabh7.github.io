@@ -15,9 +15,9 @@ Work experience
 ======
 * [Roku](https://www.roku.com/) (August 2022 - Present)
   * New Products Team
-  * Drove creation and maintenance of 7 continuous integration pipelines for RokuOS firmware in third-party devices, eliminating 32 hours of monthly QA testing
-  * Improved RokuOS third-party automation framework performance by 65% by integrating a maintenance client to handle common failures (firmware upgrades, dependency reloads, token re-authorizations)
-  * Enabled developer extension to containerize dependencies and allow engineers to remotely test devices 14x faster
+  * Shortlisted and implemented three key features to revamp TestRail API integrations for QA engineers: automated test plan generation, a test trawler for failure analysis, and a prettify feature for seamlessly discarding unused test cases
+  * Improved RokuOS third-party continuous integration pipeline performance by 65% via automated firmware upgrades, dependency reloads, and token re-authorizations
+  * Created internal developer’s extension to containerize dependencies and improve remote testing workflow speeds by 40%
 
 * [HubSpot](https://www.hubspot.com/) (August 2021 - December 2021)
   * Cookie Consent Banner Full-Stack Team
