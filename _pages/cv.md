@@ -15,9 +15,13 @@ Work experience
 ======
 * [Roku](https://www.roku.com/) (August 2022 - Present)
   * New Products Team
-  * Shortlisted and implemented three key features to revamp TestRail API integrations for QA engineers: automated test plan generation, a test trawler for failure analysis, and a prettify feature for seamlessly discarding unused test cases
-  * Improved RokuOS third-party continuous integration pipeline performance by 65% via automated firmware upgrades, dependency reloads, and token re-authorizations
-  * Created internal developer’s extension to containerize dependencies and improve remote testing workflow speeds by 40%
+  * Shortlisted and revamped TestRail API integrations in third-party automation framework using Python and AWS S3, empowering 250 company-wide engineers and saving 100+ annual hours of menial work through 3 key features:
+    * Automated generation/population of custom test plans based on executed unit tests
+    * Prettify feature to generate presentable reports from unstructured/incomplete test documents
+    * Integrated trawler to allow native failure identification (previously exported and analyzed in Excel)
+  * Improved RokuOS third-party continuous integration pipeline performance by 65% via integrating automated firmware upgrades, dependency reloads, and token re-authorizations in failure handling workflow
+  * Improved automation infrastructure access speeds by 35% by containerizing framework dependencies using Docker
+
 
 * [HubSpot](https://www.hubspot.com/) (August 2021 - December 2021)
   * Cookie Consent Banner Full-Stack Team
