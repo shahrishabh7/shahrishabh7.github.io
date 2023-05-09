@@ -17,7 +17,7 @@ Work experience
   * Shortlisted and revamped TestRail API integrations in third-party automation framework using Python and AWS S3, empowering 250 company-wide engineers and saving 100+ annual hours of menial work through 3 key features:
     * Automated generation/population of custom test plans based on executed unit tests
     * Prettify feature to generate presentable reports from unstructured/incomplete test documents
-    * Integrated trawler to allow native failure identification (previously exported and analyzed in Excel)
+    * Test trawler to integrate core failure identification functionalities natively (previously exported and analyzed in Excel)
   * Improved RokuOS third-party continuous integration pipeline performance by 65% via integrating automated firmware upgrades, dependency reloads, and token re-authorizations in failure handling workflow
   * Improved automation infrastructure access speeds by 35% by containerizing framework dependencies using Docker
 
