@@ -83,7 +83,7 @@ author:
   name             : "Rishabh Shah"
   avatar           : "profile.png"
   bio              : "Engineer @ Roku"
-  location         : "Austin, TX"
+  location         : "San Francisco, CA"
   employer         :
   pubmed           :
   googlescholar    :
@@ -190,6 +190,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   real-estate:
+    output: true
+    permalink: /:collection/:path/
+  posts:
     output: true
     permalink: /:collection/:path/
   talks:
