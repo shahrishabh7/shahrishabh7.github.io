@@ -10,7 +10,7 @@ redirect_from:
 
 I’m a software engineer and entrepreneur with bias for action.
 
-Since April, I've been building [HostAI](https://host-ai-landing.vercel.app/), a toolkit built to help Airbnb hosts bootstrap their launch with generative AI. We have 50+ active host users and are looking to add more features in the next couple weeks.
+Since April, I've been building [HostAI](https://host-ai-landing.vercel.app/), a suite of tools that help Airbnb hosts launch and scale with generative AI. We have 50+ active host users and are looking to add more features in the next couple weeks.
 
 I most recently worked at Roku to empower 1,000+ third-party developers in seamlessly building Roku channels by providing high-quality [developer tooling](https://devtools.web.roku.com/#unit-test-framework-tool). I’ve also contributed as a full-stack engineer at HubSpot and Texas Instruments in the past 3 years.
 
