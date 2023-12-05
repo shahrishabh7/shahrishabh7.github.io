@@ -1,11 +1,7 @@
 ---
-title: "Sponsio"
-excerpt: "Online waging platform for the bored creative"
+title: "AI Research Agent"
+excerpt: "AI Research Agent built at SF AGI 2023 Researchers x Builders Hackathon"
 collection: portfolio
 ---
 
-Sponsio is an online waging platform where people can propose / accept creative bets. Will Biden wear a striped tie to his speech tonight? Will it snow in New York City on New Year's Eve? Will the first goal in the World Cup final be scored with a header?
-
-The platform is built using [React.js](https://reactjs.org/).
-
-I worked on this project with [Kush Desai](https://kushkdesai.com/), [Rohith Mandavilli](https://github.com/rohithm1), and [Prathyush Shankar](https://github.com/prathyush-shankar).
+I assisted in the development of an AI research agent capable of posing, running, and evaluating ML experiments. I was responsible for adding a search action to the agent, giving it the ability to gather information from [arXiv](https://arxiv.org/abs/2310.03302) papers to hypothesize new research ideas. We benchmarked using [MLAgentBench](https://arxiv.org/abs/2310.03302), a research agent evaluations framework.
