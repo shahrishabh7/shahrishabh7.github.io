@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m currently building AI Agents to automate enterprises at [Reworkd (YC S23)](https://reworkd.ai/) in San Francisco, CA.
+I’m currently building AI Agents to extract structured data from the web at [Reworkd (YC S23)](https://reworkd.ai/) in San Francisco, CA.
 
 I previously built developer tools and full-stack applications at [Roku](https://www.roku.com/) and [HubSpot](https://www.hubspot.com/). I graduated from UT Austin in May 2022, studying Mechanical Engineering and Computer Science.
 
