@@ -11,8 +11,6 @@ redirect_from:
 
 Click [here](/files/Resume-Rishabh.pdf){:target="\_blank"}
 
-# <!-- Work experience
-
 <!-- - [Roku](https://www.roku.com/), New Products Team (August 2022 - Present)
 
   - Empowered 1,000+ third-party developers to seamlessly [build Roku channels](http://devtools.web.roku.com/) by revamping TestRail API integrations with [3 key features](http://devtools.web.roku.com/#unit-test-framework-tool) to provide high-quality assurance tooling:
