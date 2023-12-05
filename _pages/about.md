@@ -3,19 +3,13 @@ permalink: /
 title: "Hi, I’m Rishabh."
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I’m a software engineer and entrepreneur with bias for action.
+I’m currently building AI Agents to automate enterprises at [Reworkd (YC S23)](https://reworkd.ai/) in San Francisco, CA.
 
-Since April, I've been building [HostAI](https://host-ai-landing.vercel.app/), a suite of generative AI tools that help Airbnb hosts launch and scale their business. We have 50+ active host users and are launching new features in the next few weeks.
+I previously built developer tools and full-stack applications at [Roku](https://www.roku.com/) and [HubSpot](https://www.hubspot.com/). I graduated from UT Austin in May 2022, studying Mechanical Engineering and Computer Science.
 
-I most recently worked at [Roku](https://www.roku.com/) to empower 1,000+ third-party developers in seamlessly building Roku channels by providing high-quality [developer tooling](https://devtools.web.roku.com/#unit-test-framework-tool). I’ve also contributed as a full-stack engineer at [HubSpot](https://www.hubspot.com/) and [Texas Instruments](https://www.ti.com/) in the past 3 years.
-
-I am also passionate about investing in real estate. I co-own and operate a [short-term rental](/real-estate/real-estate-1/) in Panama City Beach, Florida fully remotely.
-
-I graduated from the [University of Texas at Austin](https://www.utexas.edu/) in May 2022 studying Computer Science and Mechanical Engineering. During my time at UT, I worked as a Research Associate at the [Koo Research Group](https://www.me.utexas.edu/people/faculty-directory/koo) and was an [ASME](https://www.utasme.org/) officer. I also captained [Texas Raas](/art/art-1/), an intercollegiate, cultural dance team.
-
-In my free time, you can find me hacking projects, playing chess, or listening to the [BiggerPockets](https://www.youtube.com/@biggerpockets) Real Estate podcast.
+Some of my hobbies include hacking projects, working out, reading, playing 2k, investing in real estate, watching the Dallas Cowboys, and playing chess.
