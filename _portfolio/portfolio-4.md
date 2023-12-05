@@ -4,6 +4,6 @@ excerpt: "Swift-built iOS application for NFC cards with professional and social
 collection: portfolio
 ---
 
-A virtual card that allows you to instantly share who you are, with anyone, wherever you go. Linkd allows users to build custom scannable digital cards that can be shared in seconds. This app was built using [Swift](https://www.swift.org/) and [Xcode](https://developer.apple.com/xcode/).
+A personalizable card sitting on your iPhone that instantly allows you to share socials with anyone, wherever you go. This app was built using [Swift](https://www.swift.org/) and [Xcode](https://developer.apple.com/xcode/).
 
 You can find this project [here](https://github.com/shahrishabh7/QRapp).
